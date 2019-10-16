@@ -1,0 +1,12 @@
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\week8_PretestTerm2Sem22019-VLK-LT\Shapes\Shapes\ShapesException\bin\Debug\ShapesException.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\week8_PretestTerm2Sem22019-VLK-LT\Shapes\Shapes\ShapesException\bin\Debug\ShapesException.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\week8_PretestTerm2Sem22019-VLK-LT\Shapes\Shapes\ShapesException\obj\Debug\ShapesException.csprojAssemblyReference.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\week8_PretestTerm2Sem22019-VLK-LT\Shapes\Shapes\ShapesException\obj\Debug\ShapesException.csproj.CoreCompileInputs.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\week8_PretestTerm2Sem22019-VLK-LT\Shapes\Shapes\ShapesException\obj\Debug\ShapesException.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\week8_PretestTerm2Sem22019-VLK-LT\Shapes\Shapes\ShapesException\obj\Debug\ShapesException.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge2_16Oct2019\CodeChallenge2\Shapes\ShapesException\bin\Debug\ShapesException.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge2_16Oct2019\CodeChallenge2\Shapes\ShapesException\bin\Debug\ShapesException.pdb
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge2_16Oct2019\CodeChallenge2\Shapes\ShapesException\obj\Debug\ShapesException.csprojAssemblyReference.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge2_16Oct2019\CodeChallenge2\Shapes\ShapesException\obj\Debug\ShapesException.csproj.CoreCompileInputs.cache
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge2_16Oct2019\CodeChallenge2\Shapes\ShapesException\obj\Debug\ShapesException.dll
+C:\Users\chhor\OneDrive\ICTWEB516_Tim_OOP\Challenge2_16Oct2019\CodeChallenge2\Shapes\ShapesException\obj\Debug\ShapesException.pdb
